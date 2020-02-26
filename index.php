@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prueba</title>
+    <title>Ordenerar Arrays</title>
 </head>
 <body>
     Array de Entrada: <?= implode(',', $array) ?>
