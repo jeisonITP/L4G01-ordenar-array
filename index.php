@@ -10,7 +10,7 @@
     <title>Ordenerar Arrays</title>
 </head>
 <body>
-    Programa para Ordenar Arreglos <br>
+    Programa para Ordenar Arreglos: <br>
     Array de Entrada: <?= implode(',', $array) ?>
     <br>
     <?php sort($array) ?>
