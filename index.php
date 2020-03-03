@@ -15,7 +15,7 @@
     <br>
     <?php sort($array) ?>
     Array de Salida: <?= implode(',', $array)  ?>
-
+    <br>
     Finalizando
 </body>
 </html>
